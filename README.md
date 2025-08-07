@@ -70,4 +70,6 @@ Currently pursuing a Bachelor of Technology at **I.K.G Punjab Technical Universi
 * **LinkedIn:** [linkedin.com/in/ujjwal-bhardwaj5](https://linkedin.com/in/ujjwal-bhardwaj5)
 * **Email:** ujjwaal05@gmail.com
 
-Let's connect and build the future of AI together!
+  ---
+
+_Let's connect and engineer the next generation of AI!_
