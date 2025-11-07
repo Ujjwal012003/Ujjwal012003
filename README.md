@@ -8,9 +8,13 @@ Currently pursuing a Bachelor of Technology at **I.K.G Punjab Technical Universi
 
 ## 🚀 What I Do
 
-* **AI & Data Science:** I build and deploy machine learning models to solve real-world problems. My work includes developing a platform for medical anomaly detection with 95% accuracy using XGBoost and OpenCV and building AI agentic pipelines for educational platforms.
-* **Full-Stack & 3D Web Development:** I create responsive and intuitive user interfaces with modern frameworks. I have experience building full-stack applications with Flask and React, and developing engaging virtual environments with Three.js to visualize complex concepts.
-* **Data Visualization & Automation:** I specialize in turning raw data into actionable insights. I have built automated data pipelines for over 10,000 records, developed more than 10 dynamic dashboards using Matplotlib and Chart.js, and automated data preprocessing to reduce manual effort by 30%.
+* **AI & RAG Systems:** I architect production-grade AI systems for intelligent knowledge retrieval and generation. Built enterprise-scale RAG pipeline processing 26 NCERT textbooks with 5,661 entities using LightRAG, vector embeddings, and hybrid semantic search. Developed agentic AI pipelines using LangChain and CrewAI for autonomous workflow orchestration. Additional work includes medical anomaly detection platform achieving 95% accuracy with XGBoost and OpenCV.
+
+* **Advanced ML & NLP:** I specialize in multimodal content processing and knowledge graph construction. Engineered production pipelines with RAG-Anything framework and MinerU parser for extracting text, images, tables, and equations from documents. Integrated OpenAI GPT-4o-mini for context-aware question-answering across 1,000+ indexed chunks with GPU-accelerated processing on RunPod infrastructure.
+
+* **Full-Stack & 3D Web Development:** I create responsive and intuitive user interfaces with modern frameworks. Experience building full-stack applications with Flask and React, and developing engaging virtual environments with Three.js to visualize complex educational concepts in immersive 3D simulations.
+
+* **Data Visualization & Automation:** I specialize in turning raw data into actionable insights. Built automated data pipelines for 10,000+ records, developed 10+ dynamic dashboards using Matplotlib and Chart.js, and automated data preprocessing reducing manual effort by 30%.
 
 ---
 
@@ -34,9 +38,22 @@ Currently pursuing a Bachelor of Technology at **I.K.G Punjab Technical Universi
 
 ### **Data Science Intern @ Infinisync** (Jul 2025 – Ongoing)
 
-* Developing intelligent AI agentic pipelines for the Smilez.ai self-tutoring platform.
-* Building engaging 3D virtual environments using Three.js to help visualize complex topics.
-* Collaborating directly with the founder and core team on a live AI product.
+**Production RAG System Development:**
+* Architected production-grade RAG system processing 26 NCERT textbooks (Physics & Biology)
+* Extracted 5,661 entities with 11,633 semantic relations using LightRAG knowledge graphs
+* Implemented hybrid semantic search with multimodal content processing (text/images/tables/equations)
+* Processed at scale on RunPod GPU infrastructure (NVIDIA L4) using async Python architecture
+* Integrated OpenAI GPT-4o-mini LLM for intelligent question-answering and knowledge synthesis
+
+**Advanced Framework Integration:**
+* Built multimodal processing pipeline using RAG-Anything framework and MinerU PDF parser
+* Implemented vector database indexing for efficient content retrieval across 1,001+ document chunks
+* Deployed production knowledge base on GitHub with Git LFS versioning for reproducibility
+
+**AI Systems & Platform Development:**
+* Engineered agentic AI pipelines using LangChain and CrewAI for Smilez.ai, enabling autonomous workflow orchestration and intelligent task automation
+* Built interactive 3D simulations using Three.js to visualize complex educational concepts with immersive virtual environments
+* Collaborating directly with founder and core engineering team on live AI product deployment and feature development
 
 ### **Industrial Trainee @ Vidhun Learnify** (Jun 2024 – Jul 2024)
 
@@ -62,6 +79,7 @@ Currently pursuing a Bachelor of Technology at **I.K.G Punjab Technical Universi
 * **Data & ML Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, OpenCV, Chart.js, MongoDB
 * **Developer Tools:** Git, GitHub, VS Code, Jupyter Notebook
 * **Security:** Role-Based Access Control, SSL/HTTPS
+* **AI/LLM Tools:** Langchain, RAG, Crew Ai
 
 ---
 
