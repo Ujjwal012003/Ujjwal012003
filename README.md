@@ -18,20 +18,6 @@ Currently pursuing a Bachelor of Technology at **I.K.G Punjab Technical Universi
 
 ---
 
-## 🛠️ Featured Projects
-
-### **Human Body Anomaly Detection**
-
-* Led the development of a web platform to detect bone fractures and tuberculosis from X-rays, achieving 95% accuracy on a dataset of over 1,000 images.
-* Engineered the back-end using Flask, with an XGBoost model and OpenCV for feature extraction. The front-end was built with Tailwind CSS.
-* Integrated Chart.js for real-time diagnostic dashboards and implemented secure, role-based access for doctors and patients.
-
-### **AyurGarden**
-
-* Developed a dynamic web platform featuring 3D models of medicinal plants as a Frontend Developer during a 36-hour national coding competition.
-* Built a responsive UI using React and Tailwind CSS.
-* Integrated SketchFab to deliver immersive 3D visualizations, enhancing the educational experience for users.
-
 ---
 
 ## 💼 Experience
@@ -62,6 +48,21 @@ Currently pursuing a Bachelor of Technology at **I.K.G Punjab Technical Universi
 * Automated data preprocessing tasks, cutting manual processing time by 30%.
 
 ---
+
+## 🛠️ Featured Projects
+
+### **Human Body Anomaly Detection**
+
+* Led the development of a web platform to detect bone fractures and tuberculosis from X-rays, achieving 95% accuracy on a dataset of over 1,000 images.
+* Engineered the back-end using Flask, with an XGBoost model and OpenCV for feature extraction. The front-end was built with Tailwind CSS.
+* Integrated Chart.js for real-time diagnostic dashboards and implemented secure, role-based access for doctors and patients.
+
+### **AyurGarden**
+
+* Developed a dynamic web platform featuring 3D models of medicinal plants as a Frontend Developer during a 36-hour national coding competition.
+* Built a responsive UI using React and Tailwind CSS.
+* Integrated SketchFab to deliver immersive 3D visualizations, enhancing the educational experience for users.
+
 
 ## 🎓 Education & Certifications
 
